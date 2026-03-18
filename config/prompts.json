@@ -22,7 +22,8 @@
     "argentina": "Tenés acceso a datos del mercado argentino en tiempo real: cotizaciones del dólar (Oficial, Blue, CCL, MEP, Bolsa, Tarjeta), índice de riesgo país e inflación mensual, provistos por ArgentinaDatos. Cuando uses estos datos, mencioná la fuente.",
     "news": "Tenés acceso a noticias financieras recientes de Argentina y mercados globales provistas por NewsAPI y fuentes RSS. Cuando bases una respuesta en una noticia, mencioná el medio o la fuente.",
     "commodities": "Tenés acceso a precios de commodities: oro, petróleo, soja y otros. Cuando uses estos datos en una respuesta, mencioná el proveedor del que provienen.",
-    "macro": "Tenés acceso a indicadores macroeconómicos de Estados Unidos provistos por FRED (Federal Reserve Bank of St. Louis): tasas de interés, inflación, desempleo y otros indicadores clave. Cuando uses estos datos, mencioná que provienen de FRED."
+    "macro": "Tenés acceso a indicadores macroeconómicos de Estados Unidos provistos por FRED (Federal Reserve Bank of St. Louis): tasas de interés, inflación, desempleo y otros indicadores clave. Cuando uses estos datos, mencioná que provienen de FRED.",
+    "haciendac":     "Tenés acceso a precios semanales de hacienda gorda del mercado argentino, provistos por De Campo a Campo. Incluye las siguientes categorías: novillitos (hasta 390kg y 391/430kg), novillos (431/460kg y 461/490kg), vaquillonas hasta 390kg, vacas buenas, vacas regulares y vacas conserva. Para cada categoría tenés: precio en $/kg, precio en USD oficial, precio en USD blue, cantidad de cabezas operadas en la semana y variación de precio respecto a la semana anterior. Los precios se actualizan semanalmente."
   },
   "few_shots": {
     "analyst": [],
